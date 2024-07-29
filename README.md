@@ -1,2 +1,12 @@
-### Hi there :)
-Mam na imię Ewelina, od ponad 2 lat zajmuje się testowaniem oprogramowania. 
+### PORTFOLIO
+
+
+### About me:
+My name is Ewelina
+
+
+### TOOLS:
+- [Postman]
+- [TestLink]
+- [TestRail]
+- 
