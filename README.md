@@ -1,7 +1,7 @@
 # PORTFOLIO
 
 
-## About me:
+## ABOUT ME:
 My name is Ewelina
 
 
