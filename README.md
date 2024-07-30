@@ -34,7 +34,7 @@ My name is Ewelina. I completed my bachelor's degree in Administration at the Fa
 Assertive Communication Training: "How to talk and effectively refuse?
 * 05.2023 | Udemy
 Postman from scratch-REST API testing
-* 04-07.2024 | Centalny Ośrodek Informatyki
+* 04.2023 | Centalny Ośrodek Informatyki
 New You in IT - Nowa Ty w IT
 * 07.2024 | Girls Code Fun
 JavaScript Workshops from Scratch
