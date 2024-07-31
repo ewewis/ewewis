@@ -28,8 +28,8 @@ My name is Ewelina. I completed my bachelor's degree in Administration at the Fa
 - REST API testing
 - knowledge of syllabus ISTQB Foundation level
 
-## COURSES:
-* 01 - 03.2022 | Testuj.pl | Manual tester course
+## COURSES & CERTIFICATES:
+* 01-03.2022 | Testuj.pl | Manual tester course
 * 01.2022 | Accenture | Assertive Communication Training: "How to talk and effectively refuse?
 * 06.2022 | SJSI | ISTQB Certified Tester Foundation Level
 * 08.2022 | Polska Fundacja Przedsiębiorczości | Best Practices for Creating an Effective Website
@@ -41,8 +41,8 @@ My name is Ewelina. I completed my bachelor's degree in Administration at the Fa
 * 07.2023 | Polska Fundacja Przedsiębiorczości | Creating Websites Without Coding – No-Code Technology and AI
 * 07.2023 | Polska Fundacja Przedsiębiorczości | SQL Basics Part 1
 * 08.2023 | Polska Fundacja Przedsiębiorczości | Roles in IT - Which One Is Right for Me?
-* 03 - 04.2024 | INCO ACADEMY | Get Into TECH
-* 04 - 07.2024 | Centralny Ośrodek Informatyki | New Us in IT - Nowi my w IT
+* 03-04.2024 | INCO ACADEMY | Get Into TECH
+* 04-07.2024 | Centralny Ośrodek Informatyki | New Us in IT - Nowi my w IT
 * 07.2024 | Girls Code Fun | JavaScript Workshops from Scratch
 
   
