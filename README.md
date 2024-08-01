@@ -45,4 +45,15 @@ My name is Ewelina. I completed my bachelor's degree in Administration at the Fa
 * 04-07.2024 | Centralny Ośrodek Informatyki | New Us in IT - Nowi my w IT
 * 07.2024 | Girls Code Fun | JavaScript Workshops from Scratch
 
+## GROUPS ABOUT TESTING ON FACEBOOK:
+✔️ [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)  
+✔️ [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno)  
+✔️ [Tester oprogramowania- wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)  
+✔️ [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie/)  
+✔️ [Start w IT - początkujący tester oprogramowania i programista](https://www.facebook.com/groups/czyitjestdlamnie/)  
+✔️ [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)  
+✔️ [Programuj, dziewczyno!](https://www.facebook.com/groups/programujdziewczyno/)  
+
+
+
   
