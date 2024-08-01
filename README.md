@@ -45,6 +45,11 @@ My name is Ewelina. I completed my bachelor's degree in Administration at the Fa
 * 04-07.2024 | Centralny Ośrodek Informatyki | New Us in IT - Nowi my w IT
 * 07.2024 | Girls Code Fun | JavaScript Workshops from Scratch
 
+## WEBINARS & MEETUPS:
+* 11.05.2023 | Accenture | Accenture Training Labs: Your Beginnings in Cybersecurity
+* 09.11.2023 | Eduamp | Workshop - Testing RestAPI for Beginners Using Postman
+* 05.06.2024 | girls.js | Follow-up - Duckling Hires an Assistant
+
 ## GROUPS ABOUT TESTING ON FACEBOOK:
 ✔️ [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)  
 ✔️ [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno)  
