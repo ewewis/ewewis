@@ -19,6 +19,9 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 - Slack
 - MS Office
 - Google docs
+- Figma
+- Wordpress
+- low code/ no code for example Webflow
 
 ## TECH SKILS:
 - SQL
