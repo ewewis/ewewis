@@ -51,10 +51,19 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 * 04-07.2024 | Centralny Ośrodek Informatyki | New Us in IT - Nowi my w IT
 * 07.2024 | Girls Code Fun | JavaScript Workshops from Scratch
 
-## WEBINARS & MEETUPS:
+## WEBINARS & MEETUPS & EVENTS:
 * 11.05.2023 | Accenture | Accenture Training Labs: Your Beginnings in Cybersecurity
 * 09.11.2023 | Eduamp | Workshop - Testing RestAPI for Beginners Using Postman
 * 05.06.2024 | girls.js | Follow-up - Duckling Hires an Assistant
+* 09-15.09.2024 | CODE:ME | Software Developer's Week:
+  - AI w testowaniu i WCAG 2.2: Nowe wyzwania i Szanse dla Testerów- Aleksandra Migus
+  - Warsztaty Usłysz swoją stronę - praktycznie o dostępności cyfrowej- Beata Putkowska
+* 19.09.2024 | WOMEN TECHSTYLE | Women Techstyle Summit 2024-Autumn Edition:
+  - Ryzyko jako Szansa – zarządzanie ryzykiem w projektach IT- Agnieszka Wilk- Lead IT Product Manager
+  - Syndrom oszusta - nie taki straszny, jak go malują- Klaudia Purchała-Przybyła- IT Project Manager/Scrum Master
+  - QA 2.0 - Enhancing Testing with AI- Paulina Szeląg- QA Engineer
+  - QAs are the Guardians of Quality, and We Won't Let Nobody Tell Us Otherwise- Joanna Zembaczyńska- QA Team Manager
+
 
 ## GROUPS ABOUT TESTING ON FACEBOOK:
 ✔️ [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)  
