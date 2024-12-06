@@ -21,7 +21,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 - Google docs
 - Figma
 - Wordpress
-- low code/ no code for example Webflow
+- low code/ no code- Webflow, Bubble.io
 
 ## TECH SKILS:
 - SQL
@@ -50,11 +50,13 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 * 03-04.2024 | INCO ACADEMY | Get Into TECH
 * 04-07.2024 | Centralny Ośrodek Informatyki | New Us in IT - Nowi my w IT
 * 07.2024 | Girls Code Fun | JavaScript Workshops from Scratch
+* 08.2024 | Girls Code Fun | Low-code/no-code workshops using Bubble.io
 
 ## WEBINARS & MEETUPS & EVENTS:
 * 11.05.2023 | Accenture | Accenture Training Labs: Your Beginnings in Cybersecurity
 * 09.11.2023 | Eduamp | Workshop - Testing RestAPI for Beginners Using Postman
 * 05.06.2024 | girls.js | Follow-up - Duckling Hires an Assistant
+* 05.09.2024 | Quality Island | Mobile Application Testing: Techniques, Challenges, and Best Practices
 * 09-15.09.2024 | CODE:ME | Software Developer's Week:
   - AI w testowaniu i WCAG 2.2: Nowe wyzwania i Szanse dla Testerów- Aleksandra Migus
   - Warsztaty Usłysz swoją stronę - praktycznie o dostępności cyfrowej- Beata Putkowska
@@ -63,8 +65,11 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
   - Syndrom oszusta - nie taki straszny, jak go malują- Klaudia Purchała-Przybyła- IT Project Manager/Scrum Master
   - QA 2.0 - Enhancing Testing with AI- Paulina Szeląg- QA Engineer
   - QAs are the Guardians of Quality, and We Won't Let Nobody Tell Us Otherwise- Joanna Zembaczyńska- QA Team Manager
-
-
+* 17.10.2024 | Test Dive Conference 2024:
+  - Mobile App Testing- Wojciech Lizakowski
+  - Bring back magic to your testing – life lessons from a professional magician- Grzegorz Niczyporuk
+  - Let’s make the Internet accessible for everyone- Dominika Zając
+  
 ## GROUPS ABOUT TESTING ON FACEBOOK:
 ✔️ [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)  
 ✔️ [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno)  
