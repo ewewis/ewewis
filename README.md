@@ -14,6 +14,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 - TestLink
 - TestRail
 - DevTools
+- Visual Studio Code
 - JIRA
 - Mantis
 - Trello
