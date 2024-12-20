@@ -9,6 +9,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 
 
 ## TOOLS:
+- Cypress
 - Postman
 - TestLink
 - TestRail
@@ -32,6 +33,7 @@ Privately, I have three dogs and a cat. I am interested in football and tennis. 
 - Reporting bugs
 - Basics of working in SCRUM methodology
 - REST API testing
+- automated testing
 - knowledge of syllabus ISTQB Foundation level
 
 ## COURSES & CERTIFICATES:
